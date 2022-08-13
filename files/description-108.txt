@@ -1,0 +1,6 @@
+Working, in-depth knowledge of data structures and algorithms.
+Solid experience in Object Oriented Programming.
+3 years of experience in PHP, JavaScript, Ajax, jQuery, REST, JSON, HTML5, CSS3 & Bootstrap3.
+Must have excellent knowledge on relational database systems and MySQL.
+Must have knowledge on application security, SQL injection & on related areas.
+Working experience in PHP frameworks like: CodeIgniter, Laravel, Zend etc.
